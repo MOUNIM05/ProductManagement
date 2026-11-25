@@ -1,4 +1,4 @@
-package ma.emsi.productmanagement;
+package com.mounim.productmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
